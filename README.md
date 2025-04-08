@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satuluri Rama Shesha Sai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> I am a student of SRM University, specialized in Computer Science. I have maintained my CGPA of 9.01. A Prassionate Web Developer With Good Problem Solving Skills</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ramasheshasai&label=Profile%20views&color=0e75b6&style=flat" alt="ramasheshasai" />
@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Java, Node.js, MongoDB**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ramasheshasai.github.io/rama-shesha-sai-portfolio/report.html)
-- 💬 Ask me about **React, DSA, Core Programming Languages**
+
 - 📫 Reach me at: **ramasheshasai_s@srmap.edu.in**
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1N9UUzvF0H8H0BUoQcR0BkZQv6ZijL5Zj/view?usp=drive_link)
 
@@ -33,9 +33,9 @@
   <a href="https://instagram.com/rama_shesha_sai" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/ram2005" target="_blank">
+<!--   <a href="https://www.codechef.com/users/ram2005" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
-  </a>
+  </a> -->
   <a href="https://www.hackerrank.com/ap22110011120" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
   </a>
