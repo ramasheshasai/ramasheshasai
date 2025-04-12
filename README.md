@@ -12,7 +12,6 @@
   </a>
 </p>
 
----
 
 - 🌱 I’m currently learning **Java, Node.js, MongoDB**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ramasheshasai.github.io/rama-shesha-sai-portfolio/report.html)
