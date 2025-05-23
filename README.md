@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://ramasheshasai.github.io/rama-shesha-sai-portfolio/report.html)
 
 - 📫 Reach me at: **ramasheshasai_s@srmap.edu.in**
-- 📄 [Check out my Resume](https://drive.google.com/file/d/1N9UUzvF0H8H0BUoQcR0BkZQv6ZijL5Zj/view?usp=drive_link)
+
 
 ---
 ## 🧠 LeetCode Stats
