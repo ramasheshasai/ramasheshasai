@@ -45,9 +45,7 @@
   <a href="https://instagram.com/rama_shesha_sai" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
-<!--   <a href="https://www.codechef.com/users/ram2005" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" />
-  </a> -->
+
   <a href="https://www.hackerrank.com/ap22110011120" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
   </a>
