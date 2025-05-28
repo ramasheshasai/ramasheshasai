@@ -20,7 +20,6 @@
 
 ---
 
-
 ## 🧠 LeetCode Stats
 
 <p align="center">
@@ -78,8 +77,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> &nbsp;&nbsp;
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 </p>
-
-
 ---
 <h2 align="center">📊 GitHub Stats</h2>
 
