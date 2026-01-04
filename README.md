@@ -1,5 +1,11 @@
 <!-- ===================== PROFILE HEADER ===================== -->
-<h1 align="center">👋 Hey, I'm <span style="color:#FF1493;">Satuluri Rama Shesha Sai</span></h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF1493&center=true&vCenter=true&width=700&lines=Hey+There!+I'm+Satuluri+Rama+Shesha+Sai;Product+%E2%9C%8C+Engineering+Enthusiast;Full+Stack+Developer;Problem+Solver+%F0%9F%A4%9E;Always+Learning%2C+Always+Building!">
+  </a>
+</p>
+
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
 <h3 align="center">💻 Product × Engineering | 🎓 CSE @ SRM University | 🧠 Problem Solver</h3>
 
 <p align="center">
@@ -14,15 +20,28 @@
 - 🌱 Currently leveling up in **Java | Node.js | MongoDB | Advanced React**
 - 🧠 Strong in **DSA, problem-solving & product-first thinking**
 - ✨ Goal: Build **impactful, scalable and meaningful tech**
-- 📩 Reach me: **ramasheshasai_s@srmap.edu.in**
+- 📩 **ramasheshasai_s@srmap.edu.in**
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ramasheshasai&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
 
 ---
 
 ## 🔥 Highlights
 - 🏗️ Built multiple **end-to-end real-world projects**
-- 🤝 Experience collaborating across **Product • Engineering • Design**
+- 🤝 Experience across **Product • Development • Design**
 - ⚙️ Understanding of **system architecture & backend engineering**
-- 🚀 Constantly experimenting & improving user experience + performance
+- 🚀 Always improving user experience & performance
 
 ---
 
@@ -30,13 +49,13 @@
 ### **Tech Product Management Intern — FLAM (AR Social Startup)**
 📍 Bangalore | 🗓️ June 2025 – Sept 2025  
 ✔️ Drove product direction for **6+ tech features**  
-✔️ Created **PRDs, personas, user journeys & wireframes**  
-✔️ Worked closely with **Design, Engineering & Analytics**  
-✔️ Improved **payment workflows** using POSTOTH-driven insights  
+✔️ Built **PRDs, personas, user journeys & wireframes**  
+✔️ Collaborated with **Design, Engineering & Analytics**  
+✔️ Optimized **payment workflows** with POSTOTH insights  
 
 ---
 
-## 🧠 Data Structures & Competitive Programming
+## 🧠 DSA & Competitive Programming
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/S_RAMA_SHESHA_SAI?theme=unicorn&ext=activity" width="430" />
 </p>
@@ -55,47 +74,72 @@
 ---
 
 ## ⭐ Featured Projects
-- 🏥 **Hospital Booking System** — Appointment + patient workflow  
-- 🛒 **BOOKBAZAR** — Full shopping cart with PHP + SQL backend  
-- 🌍 **Ozone Impact Awareness Platform** — MERN + DB + donation system  
-- 🍽️ **Recipe Search Engine** — React + API integration  
-- 📈 **Stock Market ML Platform** — Flask + Regression models  
+- 🏥 **Hospital Booking System** — Patient & appointment management  
+- 🛒 **BOOKBAZAR** — Full shopping system (PHP + SQL)  
+- 🌍 **Ozone Impact Awareness Platform** — MERN + DB + donations  
+- 🍽️ **Recipe Search Engine** — React + API  
+- 📈 **Stock Market ML Platform** — Flask + Regression Models  
 
 > 🔗 *Explore more in the pinned repositories below ⬇️*
 
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,java,python,c,cpp,php,nodejs,mongodb,mysql,git,vscode" />
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Analytics
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ramasheshasai&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=ramasheshasai&theme=radical" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=ramasheshasai&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true"/>
+<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramasheshasai&theme=dracula&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramasheshasai&layout=compact&theme=radical" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ramasheshasai&theme=dracula&hide_border=true"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/ramasheshasai/ramasheshasai/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/ramasheshasai/">
-<img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:ramasheshasai_s@srmap.edu.in">
-<img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/S_RAMA_SHESHA_SAI/">
-<img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
 
 ---
-⭐ *Thanks for visiting! Have a great day!*
+
+⭐ *Thanks for visiting — Have a great day!*
