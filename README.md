@@ -65,16 +65,6 @@
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/ramasheshasai/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="https://instagram.com/rama_shesha_sai" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-<a href="https://www.facebook.com/ramasheshasai.satuluri/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="45"/></a>
-<a href="https://www.hackerrank.com/ap22110011120" target="_blank"><img src="https://skillicons.dev/icons?i=hackerrank" width="45"/></a>
-<a href="https://leetcode.com/S_RAMA_SHESHA_SAI/" target="_blank"><img src="https://skillicons.dev/icons?i=leetcode" width="45"/></a>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 <p align="center">
