@@ -32,8 +32,10 @@
 
 ## 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramasheshasai&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.ryo-ma.vercel.app/?username=ramasheshasai&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
 </p>
+
+
 
 ---
 
