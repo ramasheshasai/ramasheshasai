@@ -76,11 +76,11 @@
 ---
 
 ## ⭐ Featured Projects
-- 🏥 **Hospital Booking System** — Patient & appointment management  
+- 🏥 **Prodigy PM** — Product PRD's and Personas Automation platform   
 - 🛒 **BOOKBAZAR** — Full shopping system (PHP + SQL)  
 - 🌍 **Ozone Impact Awareness Platform** — MERN + DB + donations  
-- 🍽️ **Recipe Search Engine** — React + API  
-- 📈 **Stock Market ML Platform** — Flask + Regression Models  
+- 🍽️ **DevSync Arena** — Realtime Colabarative Coding Platform  
+- 📈 **HeartGuard** — Ml and DL algorithmic Heart Disease Prediction Platform
 
 > 🔗 *Explore more in the pinned repositories below ⬇️*
 
