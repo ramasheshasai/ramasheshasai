@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **B.Tech CSE @ SRM University** — CGPA: **9.12**
+- 🎓 **B.Tech CSE @ SRM University** — CGPA: **9.17**
 - 💻 Passionate about **Full-Stack Development, ML & System Design**
 - 🌱 Currently leveling up in **Java | Node.js | MongoDB | Advanced React**
 - 🧠 Strong in **DSA, problem-solving & product-first thinking**
