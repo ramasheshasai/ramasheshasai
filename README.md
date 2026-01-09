@@ -20,8 +20,7 @@
 - 🌱 Currently leveling up in **Java | Node.js | MongoDB | Advanced React**
 - 🧠 Strong in **DSA, problem-solving & product-first thinking**
 - ✨ Goal: Build **impactful, scalable and meaningful tech**
-- 📩 **ramasheshasai_s@srmap.edu.in**
-
+- 📩 More Information About me **https://ramasheshasais.netlify.app/**
 ---
 
 <p align="center">
