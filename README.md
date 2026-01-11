@@ -12,7 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=ramasheshasai&label=Profile%20Visits&color=ff1493&style=flat-square"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+</p>
+
 
 ## 🚀 About Me
 - 🎓 **B.Tech CSE @ SRM University** — CGPA: **9.17**
@@ -21,13 +24,23 @@
 - 🧠 Strong in **DSA, problem-solving & product-first thinking**
 - ✨ Goal: Build **impactful, scalable and meaningful tech**
 - 📩 More Information About me **https://ramasheshasais.netlify.app/**
----
+  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2000&color=00F7FF&center=true&vCenter=true&width=650&lines=git+commit+-m+%22Ship+impactful+features%22;npm+run+build;docker+compose+up;System+Design+%E2%9C%94+Scalability+%E2%9C%94" />
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+</p>
+
 
 ## 🏆 GitHub Achievements
 <p align="center">
@@ -36,7 +49,10 @@
 
 
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+</p>
+
 
 ## 🔥 Highlights
 - 🏗️ Built multiple **end-to-end real-world projects**
@@ -44,7 +60,10 @@
 - ⚙️ Understanding of **system architecture & backend engineering**
 - 🚀 Always improving user experience & performance
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+</p>
+
 
 ## 🏢 Experience
 ### **Tech Product Management Intern — FLAM (AR Social Startup)**
@@ -54,7 +73,13 @@
 ✔️ Collaborated with **Design, Engineering & Analytics**  
 ✔️ Optimized **payment workflows** with POSTOTH insights  
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=FF1493&center=true&vCenter=true&width=700&lines=Product+Engineering;System+Design;Full+Stack+Development;Problem+Solving;Impact+Driven+Building" />
+</p>
+
 
 ## 🧠 DSA & Competitive Programming
 <p align="center">
@@ -72,7 +97,10 @@
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" height="85"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+</p>
+
 
 ## ⭐ Featured Projects
 - 🏥 **Prodigy PM** — Product PRD's and Personas Automation platform   
@@ -83,7 +111,10 @@
 
 > 🔗 *Explore more in the pinned repositories below ⬇️*
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -119,7 +150,10 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramasheshasai&theme=dracula&hide_border=true"/>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramasheshasai&theme=radical" />
 </p>
@@ -144,7 +178,10 @@
 </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&section=footer" />
+</p>
+
 
 ⭐ *Thanks for visiting — Have a great day!*
 
