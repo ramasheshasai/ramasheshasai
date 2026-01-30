@@ -121,29 +121,62 @@
 </p>
 
 
-## 🛠️ Tech Stack
+## ⚡ Tech Universe
 
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
-</p>
+<table align="center">
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
-</p>
+<tr>
+<td align="center" width="350">
 
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+### 👨‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python&theme=dark&perline=4" />
 
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+</td>
+<td align="center" width="350">
 
----
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark&perline=3" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark&perline=3" />
+
+</td>
+<td align="center">
+
+### 🤖 AI / ML  
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark&perline=3" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=2" />
+
+</td>
+<td align="center">
+
+### 🧰 Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=2" />
+
+</td>
+</tr>
+
+</table>
+
+
+
+
+
+
 
 ## 📊 GitHub Analytics
 <p align="center">
